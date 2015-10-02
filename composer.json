@@ -1,0 +1,14 @@
+{
+    "name": "yampolskaya/flat",
+    "authors": [
+        {
+            "name": "Alisa Yampolskaya",
+            "email": "laguza.a@mail.ru"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+	"files":["index.php"]
+    }
+	
+}
